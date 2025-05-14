@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lawal Damilare Samuel
+# 👋 Hi, I'm Damilare Samuel
 
 🎯 A passionate **Backend Developer** from Lagos, Nigeria  
 💼 Open to internships and entry-level opportunities in backend development  
