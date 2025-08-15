@@ -36,18 +36,12 @@ A task management system with full CRUD, time-based reminders, cron jobs, and em
 **Stack:** Node.js, Sequelize, PostgreSQL, Nodemailer  
 [Repo →](https://github.com/Andred17/task-manager-app)
 
-### 🎬 Nigerian Movie Review Platform *(in progress)*  
-A review app for Nigerian movies across Netflix, YouTube, etc., with user authentication and rating system.  
-**Stack:** Node.js, Express, React, MongoDB
 
 ### 📡 Telex  Bot  
 Sends weather reports to Telegram every hour using OpenWeatherMap API  
 **Stack:** Node.js, Telegram Bot API  
 [Repo →](https://github.com/Andred17/telex-integration)
 
-### 📈 Stock Price Slack Bot  
-Pulls top 5 trading stocks from Yahoo Finance and posts updates to Slack  
-**Stack:** Node.js, Slack API
 
 ---
 
